@@ -1,0 +1,8 @@
+﻿credentials.json
+token.json
+gsc-cache-3meses.json
+*.xlsx
+backup-before-backlinks-by-month/
+relatorio-chinalink-BACKUP-por-pagina.html
+__pycache__/
+.DS_Store
